@@ -39,7 +39,7 @@ Soy un apasionado Full Stack Developer con un enfoque en crear soluciones innova
 ### PI Pokemon: https://github.com/diego1contreras/PI-POKEMON-DIEGO-CONTRERAS.git (Repositorio)
 Proyecto individual que constaba de una aplicación que tenía como objetivo mostrar los pokemons que venían desde una API y ahí poder filtrar y ordenar de forma combinada, mostrar detalladamente cada uno y poder crear un pokemon nuevo que se agregue a una base de datos. 
 
-### E-Commerce TechNook: http://technookstore.up.railway.app (Deploy)
+### E-Commerce TechNook:
   https://github.com/micaortiz/PF-Server.git (Repositorio Back)
   
   https://github.com/CristianSk23/PF-Client.git (Repositorio Front)
@@ -50,7 +50,7 @@ Proyecto de 8 personas con el objetivo de lograr una aplicación que simule un E
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=diego1contreras&show_icons=true&theme=radical)
 
 ## 📫 Cómo contactarme
-- [LinkedIn](https://www.linkedin.com/in/diego-contreras-156b71216/)
+- [LinkedIn](https://www.linkedin.com/in/diego-contreras-dev/)
 - [Sitio web/blog] EN PROCESO
 
 ## 🌱 ¡Aprendiendo siempre!
